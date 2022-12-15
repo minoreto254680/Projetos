@@ -14,21 +14,21 @@
                         <!-- IMAGENS -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img src="app/img/j1.jpg" class="app/img-thumbnail center" alt="beta-glicosidases">
+                                <img src="img/j1.jpg" class="img-thumbnail center" alt="beta-glicosidases">
                                 <div class="carousel-caption">
                                     Enzimas usadas na produção de <strong>biocombustíveis</strong>.
                                 </div>
                             </div>
                             
                             <div class="item">
-                                <img src="app/img/j2.jpg" class="app/img-thumbnail"  alt="agem em parceria com endo- e exoglucanases.">
+                                <img src="img/j2.jpg" class="img-thumbnail"  alt="agem em parceria com endo- e exoglucanases.">
                                 <div class="carousel-caption">
                                     Agem em parceria com endo e exoglucanases para converter celulose em glicose fermentável.
                                 </div>
                             </div>
     
                             <div class="item">
-                                <img src="app/img/j3.jpg" class="app/img-thumbnail"  alt="...">
+                                <img src="img/j3.jpg" class="img-thumbnail"  alt="...">
                                 <div class="carousel-caption">
                                     São altamente inibidas pelo próprio produto. Entretanto, algumas são resistentes.
                                 </div>
@@ -63,7 +63,7 @@
 		<div class="row"> 
 			<div class="col-md-4"> 
 				<div class="thumbnail"> 
-					<img src="app/img/f1.jpg" class="app/img-thumbnail"> 
+					<img src="img/f1.jpg" class="img-thumbnail"> 
 
 					<div class="caption"> 
 						<h3>Sobre</h3> 
@@ -75,7 +75,7 @@
 
 				<div class="col-md-4"> 
 					<div class="thumbnail"> 
-						<img src="app/img/f2.jpg" class="app/img-thumbnail"> 
+						<img src="img/f2.jpg" class="img-thumbnail"> 
 						<div class="caption"> 
 							<h3>Navegar</h3> 
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet risus ligula. Mauris pretium magna nec porttitor vulputate.</p> <p><a href="#" class="btn btn-primary" role="button">Botão</a>
@@ -85,7 +85,7 @@
 				
 				<div class="col-md-4"> 
 					<div class="thumbnail"> 
-						<img src="app/img/f3.jpg" class="app/img-thumbnail"> 
+						<img src="img/f3.jpg" class="img-thumbnail"> 
 						<div class="caption"> 
 							<h3>BLAST</h3> 
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet risus ligula. Mauris pretium magna nec porttitor vulputate.</p> <p><a href="#" class="btn btn-primary" role="button">Botão</a>
