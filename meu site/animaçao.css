@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
 html,
 body {
-    border-radius-toplef
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,6 +12,10 @@ body {
 /* --> https://codepen.io/abdosteif/pen/bRoyMb?editors=1100*/
 
 /* Navbar section */
+
+.logo img{
+    width: 8%;
+}
 
 .nav {
     width: 100%;
